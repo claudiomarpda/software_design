@@ -1,4 +1,4 @@
-package com.methods.business.control;
+package com.design.business.control;
 
 /**
  * Exception related to user's password input, according to the business rules.

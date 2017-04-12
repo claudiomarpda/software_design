@@ -1,4 +1,4 @@
-package com.methods.business.model;
+package com.design.business.model;
 
 import java.io.Serializable;
 

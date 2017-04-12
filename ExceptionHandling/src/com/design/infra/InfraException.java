@@ -1,4 +1,4 @@
-package com.methods.infra;
+package com.design.infra;
 
 /**
  * Exception for infrastructure problems like DAO operations and file handling.

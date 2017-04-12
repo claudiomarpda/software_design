@@ -1,6 +1,6 @@
-package com.methods.infra;
+package com.design.infra;
 
-import com.methods.business.model.User;
+import com.design.business.model.User;
 
 import java.io.*;
 import java.util.HashMap;
