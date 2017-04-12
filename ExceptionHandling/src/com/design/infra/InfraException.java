@@ -5,7 +5,8 @@ package com.design.infra;
  */
 public class InfraException extends Exception {
 
-    private static final String FEEDBACK = "There is a infrastructure problem. Try again later.";
+    private static final String FEEDBACK = 
+    "There is an infrastructure problem. Try again later or contact the administrator.";
 
     public InfraException(Throwable cause) {
         super(FEEDBACK, cause);
