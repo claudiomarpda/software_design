@@ -1,2 +1,2 @@
 # BankProject
-Uses HashMap operations for bank clients.
+Uses HashMap<Account, Client> for a bank.

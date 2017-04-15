@@ -11,7 +11,7 @@
 2. **List** has a method for sorting a collection according to a Comparator class. It is a void method that causes mutation to the original list. To preserve the original list, we'd have to make a copy and then call the sort method.
 
 3. **Stream** returns new instance of ordered collections according to comparison methods defined in the own objects. Avoids [anonymous inner] classes which implement Comparator. 
-<br>
+
 Comparable vs Comparator interfaces
 * Comparable is limited to one comparison method
 * Comparator allows more than one comparison method, and so different rules

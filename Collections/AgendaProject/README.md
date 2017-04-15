@@ -1,2 +1,2 @@
 # AgendaProject
-Uses HashMap operations for agenda contacts.
+Uses HashMap<String, Person>, where key is the name.
