@@ -1,8 +1,5 @@
 package bank;
 
-/**
- * Created by mz on 13/04/17.
- */
 public class Client {
 
     private String name;
